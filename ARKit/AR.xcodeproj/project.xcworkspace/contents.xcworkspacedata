@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:../../../../Downloads/3DObjectScanningAndDetection-master/FlowerShop/Assets.xcassets"
+      name = "Assets.xcassets">
+      <FileRef
+         location = "group:../../../../Desktop/Too Much Desktop./AR/AR/product.sks">
+      </FileRef>
+      <Group
+         location = "group:flower.imageset"
+         name = "flower.imageset">
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <FileRef
+            location = "group:flower.jpg">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:AppIcon.appiconset"
+         name = "AppIcon.appiconset">
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Contents.json">
+      </FileRef>
+      <Group
+         location = "group:FlowerObjects.arresourcegroup"
+         name = "FlowerObjects.arresourcegroup">
+         <Group
+            location = "group:Scan_21-40-10.arobject"
+            name = "Scan_21-40-10.arobject">
+            <FileRef
+               location = "group:preview.jpg">
+            </FileRef>
+            <FileRef
+               location = "group:trackingData.cv3dmap">
+            </FileRef>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
