@@ -8,5 +8,5 @@ Instructions to run the React app:
  - run 'yarn install' in the projects directory to automatically install the necessary packages.
  - run 'yarn start' in the projects directory, which will create a JS server and generate the QR code, from where we can run it in the expo app (for both android and ios), or simply open it in the Android Studio's emulator.
  
- Google drive link of the screen recording of the AR app:
-will be updated shortly because of the large video file size
+ Google drive link of the screen recording of the AR app:    https://drive.google.com/file/d/1kY5pKvhHTWPzO509ojDAShboNTXtwv-S/view
+
