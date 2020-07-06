@@ -10,3 +10,5 @@ Instructions to run the React app:
  
  Google drive link of the screen recording of the AR app:    https://drive.google.com/file/d/1kY5pKvhHTWPzO509ojDAShboNTXtwv-S/view
 
+Google drive link of the video demonstration of the project:
+https://drive.google.com/file/d/17IbtmJRfVQjs0r44pJF-fCy-hScz9aT6/view
