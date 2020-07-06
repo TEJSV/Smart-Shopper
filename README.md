@@ -1,6 +1,6 @@
 # Smart shopper
 React.js based home automation app      
-Using Apple's ARKit for immersive AR shopping experience      
+Using Apple's ARKit for immersive AR shopping experience (iOS only)    
 Build on Xcode
 
 Instructions to run the React app:
