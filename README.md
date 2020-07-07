@@ -1,5 +1,5 @@
 # Smart shopper
-React.js based home automation app      
+React.js based smart shopping app      
 Using Apple's ARKit for immersive AR shopping experience (iOS only)    
 Build on Xcode
 
