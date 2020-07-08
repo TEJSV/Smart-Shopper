@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  AR
-//
-//  Created by programming-xcode on 10/25/18.
-//  Copyright © 2018 programming-xcode. All rights reserved.
-//
+
 
 import UIKit
 import SceneKit
